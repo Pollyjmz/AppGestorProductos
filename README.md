@@ -1,0 +1,2 @@
+# AppGestorProductos
+App. SQLdb. Tkinter 
