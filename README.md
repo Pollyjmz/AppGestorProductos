@@ -1,2 +1,2 @@
 # AppGestorProductos
-App. SQLdb. Tkinter 
+Appdeescritorio.Sqlalquemy.Tkinter
